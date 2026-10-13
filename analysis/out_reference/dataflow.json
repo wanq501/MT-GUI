@@ -1,0 +1,58 @@
+{
+ "gpt5": {
+  "requests": 3636,
+  "answered": 3636,
+  "json": 3636,
+  "type": 3636,
+  "conf": 3636
+ },
+ "gpt5mini": {
+  "requests": 3636,
+  "answered": 3636,
+  "json": 3636,
+  "type": 3629,
+  "conf": 3636
+ },
+ "haiku": {
+  "requests": 3636,
+  "answered": 3636,
+  "json": 3636,
+  "type": 3629,
+  "conf": 3636
+ },
+ "gemini": {
+  "requests": 3636,
+  "answered": 3636,
+  "json": 3634,
+  "type": 3635,
+  "conf": 3635
+ },
+ "qwen3vl": {
+  "requests": 3636,
+  "answered": 3636,
+  "json": 3636,
+  "type": 3618,
+  "conf": 3636
+ },
+ "qwen25vl7b": {
+  "requests": 9096,
+  "answered": 9096,
+  "json": 8925,
+  "type": 8863,
+  "conf": 9096
+ },
+ "qwen3vl8b": {
+  "requests": 9096,
+  "answered": 9096,
+  "json": 8998,
+  "type": 9077,
+  "conf": 9096
+ },
+ "internvl3": {
+  "requests": 7347,
+  "answered": 7347,
+  "json": 7289,
+  "type": 7323,
+  "conf": 7347
+ }
+}

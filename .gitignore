@@ -1,0 +1,10 @@
+# never commit credentials or local run files
+.env
+*.env
+*.key
+secrets*
+autodl.txt
+config.local.*
+LMMLab_*_assets.zip
+__pycache__/
+analysis/out/cache.pkl
